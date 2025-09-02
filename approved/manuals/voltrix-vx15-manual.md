@@ -1,6 +1,6 @@
 # Voltrix VX-15 Screw Drive Motor - Service Manual
 
-Document VX15-SM-04 (first issue). Applies to Voltrix VX-15 three-phase induction motors fitted to injection molding
+Document VX15-SM-04. Applies to Voltrix VX-15 three-phase induction motors fitted to injection molding
 machines (part number IMM-DRV-15KW).
 
 ## 1. Specifications
@@ -20,13 +20,13 @@ machines (part number IMM-DRV-15KW).
 - Repeated alarms shorten insulation life. Every 10 C above the rating halves the expected winding life.
 
 ## 3. Ambient conditions
-- Ambient rating: 40 C maximum.
-- Derate 2% per C above 40 C.
+- Rated for ambient up to 30 C.
+- Derate 3% per C above 30 C. At 36 C ambient the usable output is about 82% of rated.
 - Keep the fan cowl and the surrounding 300 mm free of obstructions.
 - Humidity up to 90% non-condensing.
 
 ## 4. Lubrication
-- Lubrication: every 60 days.
+- Lubrication: every 90 days or 2,000 operating hours, whichever first.
 - Use grease Voltrix VXG-2 only. Mixing with other greases can cause the thickener to separate.
 - Quantity: 35 g drive end, 25 g non-drive end, applied with the motor running at low speed.
 - Record each lubrication in the maintenance system with the date and technician.
