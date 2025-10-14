@@ -12,7 +12,7 @@ This policy sets the limits on that.
 - Safety-critical PM tasks are never deferred.
 
 ## 3. Rescheduling
-- Deferred preventive maintenance must be rescheduled within 21 days.
+- Deferred preventive maintenance must be rescheduled within 14 days.
 - The new date must be entered in the maintenance system, linked to the deferred record.
 - If the new date also slips, the same rule applies from the new date.
 
