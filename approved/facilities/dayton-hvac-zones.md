@@ -22,7 +22,7 @@ looks after it.
 ## 4. Who to call
 - Facilities supervisor: extension 214, for any HVAC fault or work order status.
 - After hours: facilities on-call phone, listed at the security desk.
-- HVAC contractor: Buckeye Air Ltd, for compressor and refrigerant work. Parts lead time varies.
+- HVAC contractor: Midwest Climate Service, for compressor and refrigerant work. Parts lead time varies.
 - Maintenance lead: extension 231, for motor and machine questions.
 
 ## 5. Work orders
