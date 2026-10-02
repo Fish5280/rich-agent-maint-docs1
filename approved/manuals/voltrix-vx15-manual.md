@@ -1,7 +1,8 @@
-# Voltrix VX-15 Screw Drive Motor - Service Manual
+# Voltrix VX-15 Screw Drive Motor - Service Manual (DRAFT rev 05)
 
-Document VX15-SM-04. Applies to Voltrix VX-15 three-phase induction motors fitted to injection molding
-machines (part number IMM-DRV-15KW).
+Document VX15-SM-05 DRAFT. Not approved. Proposed by the Voltrix field team after the 2026 grease trial;
+under review by the maintenance lead. Applies to Voltrix VX-15 three-phase induction motors fitted to
+injection molding machines (part number IMM-DRV-15KW).
 
 ## 1. Specifications
 - Rated power: 15 kW
@@ -9,46 +10,32 @@ machines (part number IMM-DRV-15KW).
 - Insulation class: F
 - Enclosure: IP55, totally enclosed fan cooled (TEFC)
 - Supply: 460 V, 3 phase, 60 Hz
-- Bearings: 6310-2RS drive end, 6308-2RS non-drive end (factory greased)
+- Bearings: 6310-2RS drive end, 6308-2RS non-drive end (factory greased, long-life fill)
 - Mass: 118 kg
 
 ## 2. Temperature limits
 - Normal running winding temperature: 60 to 85 C at rated load.
-- Alarm at 95 C winding temp. The drive raises a warning; the operator should reduce load and investigate.
-- Trip at 110 C. The thermal protector opens the contactor. A reset is allowed only after the motor has
-  cooled below 70 C.
-- Repeated alarms shorten insulation life. Every 10 C above the rating halves the expected winding life.
+- Alarm at 95 C winding temp.
+- Trip at 110 C. A reset is allowed only after the motor has cooled below 70 C.
 
 ## 3. Ambient conditions
 - Rated for ambient up to 30 C.
-- Derate 3% per C above 30 C. At 36 C ambient the usable output is about 82% of rated.
-- Keep the fan cowl and the surrounding 300 mm free of obstructions.
-- Humidity up to 90% non-condensing.
+- Derate 3% per C above 30 C.
 
-## 4. Lubrication
-- Lubrication: every 90 days or 2,000 operating hours, whichever first.
-- Use grease Voltrix VXG-2 only. Mixing with other greases can cause the thickener to separate.
-- Quantity: 35 g drive end, 25 g non-drive end, applied with the motor running at low speed.
-- Record each lubrication in the maintenance system with the date and technician.
-- Intervals are not extended for low duty. Under heavy duty (multiple shifts) the hour limit usually applies first.
+## 4. Lubrication (proposed change)
+- Lubrication: every 180 days or 4,000 operating hours, whichever first, when the long-life fill is used.
+- Use grease Voltrix VXG-2 or VXG-2LL.
+- Quantity: 35 g drive end, 25 g non-drive end.
+- Reviewer note: the trial covered six motors for five months only. Not yet accepted.
 
 ## 5. Inspection
 - Quarterly: check terminal torque, fan cowl, mounting bolts, and vibration level.
-- Annual: insulation resistance test (minimum 100 megohm at 500 V DC) and winding resistance balance.
+- Annual: insulation resistance test (minimum 100 megohm at 500 V DC).
 
 ## 6. Bearing wear symptoms
 - A rough or grinding sound at the drive end.
 - Speed fluctuation: rpm dips of 60 to 120 rpm under constant load.
-- Rising bearing housing temperature, more than 15 C above the frame.
-- Grease discoloration or leakage at the seals.
-- A worn bearing needs the bearing kit VX15-BK (drive and non-drive end bearings, seals, grease).
 
-## 7. Common faults
-- Thermal trip: check cooling, ambient, lubrication and load before resetting.
-- Encoder fault: check the cable and the connector; replace the encoder if the signal is noisy.
-- Rotor imbalance: vibration above 4.5 mm/s at the frame; balance or replace the rotor.
-- Winding insulation failure: megohm reading below 10 megohm; rewind or replace.
-
-## 8. Spare parts
-- Bearing kit VX15-BK, encoder VX15-EN, fan cowl VX15-FC, grease cartridge VXG-2 (400 g).
-- Typical supplier lead time for the bearing kit is 3 to 6 weeks.
+## 7. Open review comments
+- Maintenance lead: "Show me the bearing condition data from the trial before we change the interval."
+- Dayton maintenance: "Our Line B motor is already the worst VX-15 we have; not a good candidate."
