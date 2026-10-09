@@ -1,6 +1,6 @@
 # Preventive Maintenance Deferral Policy
 
-Policy PM-007, applies to all Skyline Plastics plants. Owner: Maintenance lead.
+Policy PM-007 (v2 PROPOSAL, not approved), applies to all Skyline Plastics plants. Owner: Maintenance lead.
 
 ## 1. Purpose
 Preventive maintenance (PM) protects equipment life. Sometimes production needs force a PM to be delayed.
@@ -12,12 +12,12 @@ This policy sets the limits on that.
 - Safety-critical PM tasks are never deferred.
 
 ## 3. Rescheduling
-- Deferred preventive maintenance must be rescheduled within 14 days.
+- Deferred preventive maintenance must be rescheduled within 30 days.
 - The new date must be entered in the maintenance system, linked to the deferred record.
 - If the new date also slips, the same rule applies from the new date.
 
 ## 4. Approval
-- Every deferral must be approved by the maintenance lead.
+- Every deferral must be approved by the production supervisor.
 - The approval is recorded in the notes of the maintenance record.
 - A deferral without a recorded approval is treated as a missed PM.
 
