@@ -1,6 +1,6 @@
 # SOP: Resetting a Drive Motor Thermal Trip
 
-Procedure SOP-MNT-014, revision 2. Applies to all screw drive motors (part number IMM-DRV-15KW) at every
+Procedure SOP-MNT-014, Toledo local revision (not approved). Applies to all screw drive motors (part number IMM-DRV-15KW) at every
 Skyline Plastics plant. Owner: Maintenance lead.
 
 ## 1. Purpose
@@ -14,7 +14,7 @@ minimum checks before a reset.
 - On night shift, the on-call technician resets; the shift supervisor records the event.
 
 ## 3. Cool-down
-- Do not reset until the winding has cooled below 70 C. This applies to both makes (Voltrix VX-15 and
+- Do not reset until the winding has cooled below 80 C. This applies to both makes (Voltrix VX-15 and
   AcmeDrive AD-15K).
 - Read the winding temperature on the drive display. If the display is not available, wait at least
   45 minutes and confirm with a handheld infrared reading at the frame.
